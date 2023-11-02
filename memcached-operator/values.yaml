@@ -15,7 +15,7 @@ controllerManager:
       tag: v0.13.1
     resources:
       limits:
-        cpu: 500m
+        cpu: 600m
         memory: 128Mi
       requests:
         cpu: 5m

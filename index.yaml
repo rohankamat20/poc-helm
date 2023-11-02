@@ -2,8 +2,18 @@ apiVersion: v1
 entries:
   memcached-operator:
   - apiVersion: v2
+    appVersion: 0.2.0
+    created: "2023-11-01T20:35:59.798551-05:00"
+    description: A Helm chart for Kubernetes
+    digest: 27fd1bdf1656594481dfcbdbe42b36008f8e5e153caf4119528d5906f9d9460d
+    name: memcached-operator
+    type: application
+    urls:
+    - https://github.com/rohankamat20/poc-helm/memcached-operator-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 0.1.0
-    created: "2023-10-31T21:28:55.384069-05:00"
+    created: "2023-11-01T20:35:59.797652-05:00"
     description: A Helm chart for Kubernetes
     digest: 6af93494e7cd141e9038df5359c83b5f757ebeee8ad6171b5aa156200c774531
     name: memcached-operator
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://github.com/rohankamat20/poc-helm/memcached-operator-0.1.0.tgz
     version: 0.1.0
-generated: "2023-10-31T21:28:55.383006-05:00"
+generated: "2023-11-01T20:35:59.796394-05:00"
